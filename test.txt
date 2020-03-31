@@ -5,3 +5,5 @@ Person 2 java_demo2
 Person 1 change
 
 added new feature
+
+added a second feature
